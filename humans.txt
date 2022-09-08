@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Adel chelabi adel-ch@c.com
 
 # THANKS
 
