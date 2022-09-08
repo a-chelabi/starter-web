@@ -6,5 +6,8 @@ This is a simple website
 This is introduction text
 ## Purpose
 
+This is purpose text
 ## Deployment
+
+This is deployment text
 ## How To Contribute 
