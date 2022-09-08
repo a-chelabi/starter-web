@@ -12,6 +12,7 @@ This is purpose text
 This is deployment text
 ## How To Contribute 
 
+Please fork this repository
 ## Copyright
 
 This is a copyright text
