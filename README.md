@@ -3,6 +3,7 @@
 This is a simple website 
 ## Introduction
 
+This is introduction text
 ## Purpose
 
 ## Deployment
