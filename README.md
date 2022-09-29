@@ -17,4 +17,4 @@ This is deployment text
 Please fork this repository
 ## Copyright
 
-This is a copyright text
+This is a copyright text. All rights reserved.
