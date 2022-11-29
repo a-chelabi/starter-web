@@ -14,7 +14,7 @@ This is purpose text
 This is deployment text after git stash
 ## How To Contribute 
 
-Please fork this repository
+Please fork this repository if you want
 ## Copyright
 
 This is a copyright text. All rights reserved.
