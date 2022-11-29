@@ -18,3 +18,4 @@ Please fork this repository
 ## Copyright
 
 This is a copyright text. All rights reserved.
+Another Copyright
