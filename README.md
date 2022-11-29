@@ -11,11 +11,11 @@ This is introduction text
 This is purpose text
 ## Deployment
 
-This is deployment text
+This is deployment text after git stash
 ## How To Contribute 
 
 Please fork this repository
 ## Copyright
 
 This is a copyright text. All rights reserved.
-Another Copyright
+Another strong Copyright
